@@ -8,8 +8,15 @@
 
 ## Results
 
+The plot below, shows the actual value of the close price in the training and testing phase and the actual value as specified
+The model has been able to predict the Close price well. The red color is the actual value of the test data, the orange color,
+The output value of the model and the blue color shows the value of the close price in the training process.
+
+
+**LSTM**
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot1.PNG)
 
+**GRU**
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot2.PNG)
 
 
