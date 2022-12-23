@@ -2,15 +2,11 @@
 
 **Install dependencies**
 
-pandas
-
-numpy
-
-maplotlib
-
-keras 
-
-tensorflow>=1.18
+- pandas
+- numpy
+- maplotlib
+- keras 
+- tensorflow>=1.18
 
 ## dataset sample
 
