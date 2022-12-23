@@ -1,1 +1,8 @@
-# stock_prediction_lstm
+# stock prediction
+
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
