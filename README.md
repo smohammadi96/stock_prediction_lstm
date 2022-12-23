@@ -23,3 +23,7 @@
 | LSTM (tanh) | 2 | 128-64 | Adam | 490 | 0.19 |
 | LSTM | 2 | 128-32 | Adam | 53.02 | 0.02 |
 | GRU | 2 | 128-64 | Adam | 148 | 0.05 |
+
+
+The best result that has the lowest MSE is related to the 3-layer GRU network with the number of neurons 64, 128 and 32, which have better results than LSTM. GRU and LSTM both use different ways to avoid vanishing gradient problem.
+The main difference between GRU and LSTM is that GRU has two gates that are reset and updated, but LSTM has three gates: input, output, and forget This is because GRU is less complicated and more suitable for small datasets. It is worth mentioning which exposes GRU full memory and hidden layers.
