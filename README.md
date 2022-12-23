@@ -8,9 +8,9 @@ numpy
 
 maplotlib
 
-tensorflow==1.18
+keras 
 
-keras
+tensorflow>=1.18
 
 ## dataset sample
 
