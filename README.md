@@ -12,7 +12,6 @@
 
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot2.PNG)
 
-![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/table.PNG)
 
 
 
