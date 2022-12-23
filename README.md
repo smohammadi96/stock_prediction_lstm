@@ -1,8 +1,15 @@
 # stock prediction
 
+## dataset sample
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/stock_dataset.PNG)
 
-![alt text](http://url/to/img.png)
 
-![alt text](http://url/to/img.png)
+
+## Results
+
+![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot1.PNG)
+
+![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot2.PNG)
+
+![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/table.PNG)
