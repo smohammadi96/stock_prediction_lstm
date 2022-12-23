@@ -15,9 +15,10 @@
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/table.PNG)
 
 
+
 | First Header  | Layers number | neurons number in each layer | Optimizer | Rmse without scale | Rmse with scale | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| GRU (tanh)  | Content Cell  |
+| GRU (tanh)  | 3 | 128-64-32 | Adam | 43.14 | 0.01 |
 | LSTM | 2 | 128-64 | Adam | 57 | 0.02 |
 | GRU | 3 | 128-64-32 | Adam | 59.74 | 0.02 |
 | LSTM (tanh) | 2 | 128-64 | Adam | 490 | 0.19 |
