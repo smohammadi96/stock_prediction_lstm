@@ -1,5 +1,17 @@
 # stock prediction
 
+**Install dependencies**
+
+pandas
+
+numpy
+
+maplotlib
+
+tensorflow==1.18
+
+keras
+
 ## dataset sample
 
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/stock_dataset.PNG)
