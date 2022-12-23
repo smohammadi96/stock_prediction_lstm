@@ -14,9 +14,11 @@ The output value of the model and the blue color shows the value of the close pr
 
 
 **LSTM**
+
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot1.PNG)
 
 **GRU**
+
 ![alt text](https://github.com/smohammadi96/stock_prediction_lstm/blob/main/images/plot2.PNG)
 
 
